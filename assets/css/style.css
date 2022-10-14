@@ -1,0 +1,30 @@
+.imagenlogo{
+    height: 60px;
+}
+
+.navbar{
+   background-color:  #09869f;
+   color: white;
+}
+.parrafo1{
+    color: #28a745;
+}
+.Formulario{
+    background-color: #051878;
+}
+.colores{
+    color: white;
+}
+.my-2{
+    height: 30px;
+}
+
+h4{
+    text-align: center;
+    color: dimgray;
+    font-size: 15px;
+    width: auto;
+    background-color: rgb(104, 235, 255);
+    margin-top: 20px;
+    
+}
